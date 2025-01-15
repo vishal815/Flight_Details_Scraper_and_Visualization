@@ -1,0 +1,151 @@
+Airline,Flight Duration,Price,Departure Time,Departure Date,Departure Airport,Arrival Time,Arrival Date,Arrival Airport,Stops,CO2 Emissions
+IndiGo,11 hr 30 min,"₹27,515",8:45 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",6:45 PM,"Sun, Feb 2",Zayed International Airport,1 stop,266 kg CO2e
+IndiGo,11 hr 15 min,"₹28,349",12:40 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 PM,"Sun, Feb 2",Zayed International Airport,1 stop,257 kg CO2e
+IndiGo,8 hr 15 min,"₹29,252",4:35 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:20 PM,"Sun, Feb 2",Zayed International Airport,1 stop,230 kg CO2e
+IndiGo,25 hr 40 min,"₹27,351",9:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",9:40 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,266 kg CO2e
+IndiGo,25 hr 45 min,"₹27,515",6:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",6:45 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,266 kg CO2e
+IndiGo,23 hr 5 min,"₹27,515",9:10 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",6:45 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,266 kg CO2e
+IndiGo,27 hr 30 min,"₹27,860",8:55 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:55 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,292 kg CO2e
+IndiGo,29 hr 25 min,"₹27,905",6:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,257 kg CO2e
+IndiGo,26 hr 45 min,"₹27,905",9:10 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,257 kg CO2e
+IndiGo,15 hr 10 min,"₹28,349",8:45 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 PM,"Sun, Feb 2",Zayed International Airport,1 stop,257 kg CO2e
+IndiGo,30 hr 30 min,"₹28,543",5:55 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:55 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,292 kg CO2e
+IndiGo,13 hr 35 min,"₹29,135",2:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",2:35 AM+1,"Sun, Feb 2",Zayed International Airport,1 stop,299 kg CO2e
+IndiGo,28 hr 30 min,"₹29,252",8:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:20 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,242 kg CO2e
+IndiGo,27 hr 30 min,"₹29,252",9:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:20 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,230 kg CO2e
+IndiGo,12 hr 45 min,"₹29,698",11:40 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:55 PM,"Sun, Feb 2",Zayed International Airport,1 stop,292 kg CO2e
+IndiGo,25 hr,"₹30,179",1:55 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",1:25 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,275 kg CO2e
+IndiGo,14 hr 25 min,"₹30,252",8:45 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",9:40 PM,"Sun, Feb 2",Sharjah International Airport,1 stop,262 kg CO2e
+IndiGo,10 hr 30 min,"₹30,252",12:40 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",9:40 PM,"Sun, Feb 2",Sharjah International Airport,1 stop,262 kg CO2e
+IndiGo,28 hr 40 min,"₹30,252",6:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",9:40 PM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,262 kg CO2e
+IndiGo,26 hr,"₹30,252",9:10 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",9:40 PM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,262 kg CO2e
+IndiGo,12 hr 10 min,"₹30,553",3:45 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",2:25 AM+1,"Sun, Feb 2",Zayed International Airport,1 stop,243 kg CO2e
+IndiGo,10 hr 35 min,"₹30,853",10:45 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:50 PM,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+IndiGo,14 hr 15 min,"₹30,853",1:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",2:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,242 kg CO2e
+IndiGo,20 hr 10 min,"₹30,853",3:45 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,240 kg CO2e
+IndiGo,27 hr 5 min,"₹30,853",3:45 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",5:20 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,240 kg CO2e
+IndiGo,30 hr 10 min,"₹30,853",3:45 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",8:25 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,240 kg CO2e
+IndiGo,14 hr 45 min,"₹30,853",9:10 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,261 kg CO2e
+IndiGo,21 hr 20 min,"₹30,853",9:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",5:20 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,240 kg CO2e
+IndiGo,24 hr 25 min,"₹30,853",9:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",8:25 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,240 kg CO2e
+IndiGo,13 hr 35 min,"₹30,919",3:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",3:10 AM+1,"Sun, Feb 2",Zayed International Airport,1 stop,253 kg CO2e
+IndiGo,9 hr 55 min,"₹31,174",7:40 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",4:05 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,227 kg CO2e
+IndiGo,9 hr 30 min,"₹31,378",11:50 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:50 PM,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+IndiGo,14 hr 5 min,"₹31,863",10:45 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:20 PM,"Sun, Feb 2",Zayed International Airport,1 stop,230 kg CO2e
+IndiGo,13 hr,"₹31,863",11:50 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:20 PM,"Sun, Feb 2",Zayed International Airport,1 stop,230 kg CO2e
+IndiGo,13 hr 45 min,"₹32,050",3:45 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",4:00 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,240 kg CO2e
+IndiGo,14 hr 25 min,"₹32,050",9:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,240 kg CO2e
+IndiGo,27 hr 10 min,"₹32,318",8:45 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,261 kg CO2e
+IndiGo,23 hr 15 min,"₹32,318",12:40 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,261 kg CO2e
+IndiGo,17 hr 25 min,"₹32,318",6:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,261 kg CO2e
+IndiGo,15 hr 20 min,"₹32,691",8:55 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:45 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,290 kg CO2e
+IndiGo,20 hr 15 min,"₹33,287",2:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",9:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,298 kg CO2e
+IndiGo,18 hr 20 min,"₹33,373",5:55 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:45 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,290 kg CO2e
+IndiGo,11 hr 20 min,"₹33,925",3:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",12:55 AM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,225 kg CO2e
+IndiGo,24 hr 35 min,"₹34,528",11:40 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:45 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,290 kg CO2e
+IndiGo,27 hr,"₹34,959",6:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:50 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,245 kg CO2e
+IndiGo,25 hr,"₹34,959",8:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:50 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,245 kg CO2e
+IndiGo,24 hr,"₹34,959",9:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:50 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+SpiceJet,12 hr 35 min,"₹37,921",11:00 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:05 PM,"Sun, Feb 2",Dubai International Airport,1 stop,298 kg CO2e
+SpiceJet,24 hr 40 min,"₹37,921",11:00 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:10 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,298 kg CO2e
+IndiGo,28 hr 45 min,"₹38,476",4:35 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:50 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+IndiGo,18 hr 25 min,"₹40,666",6:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,245 kg CO2e
+IndiGo,16 hr 25 min,"₹40,666",8:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,245 kg CO2e
+IndiGo,15 hr 25 min,"₹40,666",9:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+IndiGo,26 hr,"₹41,558",10:45 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+IndiGo,24 hr 55 min,"₹41,558",11:50 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+IndiGo,20 hr 10 min,"₹44,183",4:35 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+Air India,9 hr 50 min,Price unavailable,10:40 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:00 PM,"Sun, Feb 2",Dubai International Airport,1 stop,349 kg CO2e
+Air India,13 hr 35 min,Price unavailable,10:40 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:45 PM,"Sun, Feb 2",Dubai International Airport,1 stop,303 kg CO2e
+Air India,23 hr 25 min,Price unavailable,10:40 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",8:35 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,349 kg CO2e
+"Air India, Air India Express",25 hr 50 min,Price unavailable,10:40 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:00 AM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,281 kg CO2e
+Air India,9 hr 20 min,Price unavailable,2:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",9:55 PM,"Sun, Feb 2",Dubai International Airport,1 stop,275 kg CO2e
+Air India,10 hr 40 min,Price unavailable,2:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:15 PM,"Sun, Feb 2",Zayed International Airport,1 stop,311 kg CO2e
+Air India,21 hr 40 min,Price unavailable,2:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,275 kg CO2e
+"Air India, Air India Express",28 hr 10 min,Price unavailable,2:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",4:45 PM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,263 kg CO2e
+Air India,8 hr 10 min,Price unavailable,4:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:45 PM,"Sun, Feb 2",Dubai International Airport,1 stop,303 kg CO2e
+Air India,18 hr,Price unavailable,4:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",8:35 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,349 kg CO2e
+"Air India, Air India Express",20 hr 25 min,Price unavailable,4:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:00 AM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,281 kg CO2e
+Air India,21 hr 35 min,Price unavailable,4:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",12:10 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,348 kg CO2e
+Air India,14 hr 55 min,Price unavailable,7:10 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",8:35 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,270 kg CO2e
+"Air India, Air India Express",17 hr 20 min,Price unavailable,7:10 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:00 AM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,281 kg CO2e
+Air India,18 hr 30 min,Price unavailable,7:10 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",12:10 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,348 kg CO2e
+Air India,13 hr 30 min,Price unavailable,8:35 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",8:35 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,270 kg CO2e
+"Air India, Air India Express",15 hr 55 min,Price unavailable,8:35 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:00 AM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,281 kg CO2e
+Air India,17 hr 5 min,Price unavailable,8:35 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",12:10 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,348 kg CO2e
+Air India,23 hr 55 min,Price unavailable,8:35 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:00 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,270 kg CO2e
+IndiGo,11 hr 30 min,"₹27,515",8:45 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",6:45 PM,"Sun, Feb 2",Zayed International Airport,1 stop,266 kg CO2e
+IndiGo,11 hr 15 min,"₹28,349",12:40 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 PM,"Sun, Feb 2",Zayed International Airport,1 stop,257 kg CO2e
+IndiGo,8 hr 15 min,"₹29,252",4:35 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:20 PM,"Sun, Feb 2",Zayed International Airport,1 stop,230 kg CO2e
+IndiGo,25 hr 40 min,"₹27,351",9:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",9:40 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,266 kg CO2e
+IndiGo,25 hr 45 min,"₹27,515",6:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",6:45 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,266 kg CO2e
+IndiGo,23 hr 5 min,"₹27,515",9:10 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",6:45 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,266 kg CO2e
+IndiGo,27 hr 30 min,"₹27,860",8:55 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:55 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,292 kg CO2e
+IndiGo,29 hr 25 min,"₹27,905",6:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,257 kg CO2e
+IndiGo,26 hr 45 min,"₹27,905",9:10 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,257 kg CO2e
+IndiGo,15 hr 10 min,"₹28,349",8:45 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 PM,"Sun, Feb 2",Zayed International Airport,1 stop,257 kg CO2e
+IndiGo,30 hr 30 min,"₹28,543",5:55 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:55 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,292 kg CO2e
+IndiGo,13 hr 35 min,"₹29,135",2:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",2:35 AM+1,"Sun, Feb 2",Zayed International Airport,1 stop,299 kg CO2e
+IndiGo,28 hr 30 min,"₹29,252",8:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:20 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,242 kg CO2e
+IndiGo,27 hr 30 min,"₹29,252",9:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:20 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,230 kg CO2e
+IndiGo,12 hr 45 min,"₹29,698",11:40 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:55 PM,"Sun, Feb 2",Zayed International Airport,1 stop,292 kg CO2e
+IndiGo,25 hr,"₹30,179",1:55 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",1:25 PM+1,"Sun, Feb 2",Zayed International Airport,1 stop,275 kg CO2e
+IndiGo,14 hr 25 min,"₹30,252",8:45 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",9:40 PM,"Sun, Feb 2",Sharjah International Airport,1 stop,262 kg CO2e
+IndiGo,10 hr 30 min,"₹30,252",12:40 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",9:40 PM,"Sun, Feb 2",Sharjah International Airport,1 stop,262 kg CO2e
+IndiGo,28 hr 40 min,"₹30,252",6:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",9:40 PM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,262 kg CO2e
+IndiGo,26 hr,"₹30,252",9:10 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",9:40 PM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,262 kg CO2e
+IndiGo,12 hr 10 min,"₹30,553",3:45 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",2:25 AM+1,"Sun, Feb 2",Zayed International Airport,1 stop,243 kg CO2e
+IndiGo,10 hr 35 min,"₹30,853",10:45 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:50 PM,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+IndiGo,14 hr 15 min,"₹30,853",1:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",2:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,242 kg CO2e
+IndiGo,20 hr 10 min,"₹30,853",3:45 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,240 kg CO2e
+IndiGo,27 hr 5 min,"₹30,853",3:45 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",5:20 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,240 kg CO2e
+IndiGo,30 hr 10 min,"₹30,853",3:45 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",8:25 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,240 kg CO2e
+IndiGo,14 hr 45 min,"₹30,853",9:10 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,261 kg CO2e
+IndiGo,21 hr 20 min,"₹30,853",9:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",5:20 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,240 kg CO2e
+IndiGo,24 hr 25 min,"₹30,853",9:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",8:25 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,240 kg CO2e
+IndiGo,13 hr 35 min,"₹30,919",3:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",3:10 AM+1,"Sun, Feb 2",Zayed International Airport,1 stop,253 kg CO2e
+IndiGo,9 hr 55 min,"₹31,174",7:40 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",4:05 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,227 kg CO2e
+IndiGo,9 hr 30 min,"₹31,378",11:50 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:50 PM,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+IndiGo,14 hr 5 min,"₹31,863",10:45 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:20 PM,"Sun, Feb 2",Zayed International Airport,1 stop,230 kg CO2e
+IndiGo,13 hr,"₹31,863",11:50 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:20 PM,"Sun, Feb 2",Zayed International Airport,1 stop,230 kg CO2e
+IndiGo,13 hr 45 min,"₹32,050",3:45 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",4:00 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,240 kg CO2e
+IndiGo,14 hr 25 min,"₹32,050",9:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,240 kg CO2e
+IndiGo,27 hr 10 min,"₹32,318",8:45 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,261 kg CO2e
+IndiGo,23 hr 15 min,"₹32,318",12:40 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,261 kg CO2e
+IndiGo,17 hr 25 min,"₹32,318",6:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:25 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,261 kg CO2e
+IndiGo,15 hr 20 min,"₹32,691",8:55 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:45 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,290 kg CO2e
+IndiGo,20 hr 15 min,"₹33,287",2:30 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",9:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,298 kg CO2e
+IndiGo,18 hr 20 min,"₹33,373",5:55 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:45 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,290 kg CO2e
+IndiGo,11 hr 20 min,"₹33,925",3:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",12:55 AM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,225 kg CO2e
+IndiGo,24 hr 35 min,"₹34,528",11:40 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:45 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,290 kg CO2e
+IndiGo,27 hr,"₹34,959",6:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:50 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,245 kg CO2e
+IndiGo,25 hr,"₹34,959",8:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:50 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,245 kg CO2e
+IndiGo,24 hr,"₹34,959",9:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:50 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+SpiceJet,12 hr 35 min,"₹37,921",11:00 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:05 PM,"Sun, Feb 2",Dubai International Airport,1 stop,298 kg CO2e
+SpiceJet,24 hr 40 min,"₹37,921",11:00 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:10 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,298 kg CO2e
+IndiGo,28 hr 45 min,"₹38,476",4:35 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:50 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+IndiGo,18 hr 25 min,"₹40,666",6:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,245 kg CO2e
+IndiGo,16 hr 25 min,"₹40,666",8:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,245 kg CO2e
+IndiGo,15 hr 25 min,"₹40,666",9:20 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+IndiGo,26 hr,"₹41,558",10:45 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+IndiGo,24 hr 55 min,"₹41,558",11:50 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+IndiGo,20 hr 10 min,"₹44,183",4:35 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,233 kg CO2e
+Air India,9 hr 50 min,Price unavailable,10:40 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:00 PM,"Sun, Feb 2",Dubai International Airport,1 stop,349 kg CO2e
+Air India,13 hr 35 min,Price unavailable,10:40 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:45 PM,"Sun, Feb 2",Dubai International Airport,1 stop,303 kg CO2e
+Air India,23 hr 25 min,Price unavailable,10:40 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",8:35 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,349 kg CO2e
+"Air India, Air India Express",25 hr 50 min,Price unavailable,10:40 AM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:00 AM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,281 kg CO2e
+Air India,9 hr 20 min,Price unavailable,2:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",9:55 PM,"Sun, Feb 2",Dubai International Airport,1 stop,275 kg CO2e
+Air India,10 hr 40 min,Price unavailable,2:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:15 PM,"Sun, Feb 2",Zayed International Airport,1 stop,311 kg CO2e
+Air India,21 hr 40 min,Price unavailable,2:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:15 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,275 kg CO2e
+"Air India, Air India Express",28 hr 10 min,Price unavailable,2:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",4:45 PM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,263 kg CO2e
+Air India,8 hr 10 min,Price unavailable,4:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",10:45 PM,"Sun, Feb 2",Dubai International Airport,1 stop,303 kg CO2e
+Air India,18 hr,Price unavailable,4:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",8:35 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,349 kg CO2e
+"Air India, Air India Express",20 hr 25 min,Price unavailable,4:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:00 AM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,281 kg CO2e
+Air India,21 hr 35 min,Price unavailable,4:05 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",12:10 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,348 kg CO2e
+Air India,14 hr 55 min,Price unavailable,7:10 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",8:35 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,270 kg CO2e
+"Air India, Air India Express",17 hr 20 min,Price unavailable,7:10 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:00 AM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,281 kg CO2e
+Air India,18 hr 30 min,Price unavailable,7:10 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",12:10 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,348 kg CO2e
+Air India,13 hr 30 min,Price unavailable,8:35 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",8:35 AM+1,"Sun, Feb 2",Dubai International Airport,1 stop,270 kg CO2e
+"Air India, Air India Express",15 hr 55 min,Price unavailable,8:35 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",11:00 AM+1,"Sun, Feb 2",Sharjah International Airport,1 stop,281 kg CO2e
+Air India,17 hr 5 min,Price unavailable,8:35 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",12:10 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,348 kg CO2e
+Air India,23 hr 55 min,Price unavailable,8:35 PM,"Sun, Feb 2","Jayprakash Narayan International Airport, Patna",7:00 PM+1,"Sun, Feb 2",Dubai International Airport,1 stop,270 kg CO2e
