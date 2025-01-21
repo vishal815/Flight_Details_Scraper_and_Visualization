@@ -3,6 +3,9 @@
 ## Overview
 This project focuses on scraping flight details from [Google Flights](https://www.google.com/travel/flights?gl=IN&hl=en), processing the data, and performing cleaning and visualization for future use in analytics or predictive modeling.
 
+## Workflow step-by-step
+![web_scraping_workflow](https://github.com/user-attachments/assets/23379c68-2f55-4110-b40a-89cd9fd4c002)
+
 ## Features
 - **Web Scraping**: Extracts detailed flight information, including:
   - Airline names
@@ -61,6 +64,13 @@ Data is scraped from [Google Flights](https://www.google.com/travel/flights?gl=I
 |---------|-----------------|----------|----------------|----------------|-----------------------------------------------|--------------|--------------|---------------------------|--------|---------------|---------------------|
 | IndiGo  | 11 hr 30 min    | ₹27,515  | 8:45 AM        | Sun, Feb 2     | Jayprakash Narayan International Airport, Patna | 6:45 PM      | Sun, Feb 2   | Zayed International Airport | 1 stop | 266 kg CO2e   | 0                   |
 | IndiGo  | 11 hr 15 min    | ₹28,349  | 12:40 PM       | Sun, Feb 2     | Jayprakash Narayan International Airport, Patna | 10:25 PM     | Sun, Feb 2   | Zayed International Airport | 1 stop | 257 kg CO2e   | 0                   |
+
+
+## some output of visualization
+![image](https://github.com/user-attachments/assets/9c5eb579-aa6c-40da-b43c-6b845f87bc3f)
+
+![image](https://github.com/user-attachments/assets/97e9a9d2-f4ba-4905-9f1c-88f7de3ec21f)
+
 
 ## Future Work
 - Autometion using crontab linux.
